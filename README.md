@@ -20,6 +20,6 @@ Flot was written in PHP, as it's the most common webserver language, so getting 
 
 Flot is open source, which means totally free.
 
-For now, flot is still being developed, but coming together quickly. Check out the flot website, or follow flot on twitter to stay updated.
+For now, flot is still being developed, but coming together quickly. Check out the flot website http://index.geraldkrug.com to stay updated.
 
 Flot CMS UI
